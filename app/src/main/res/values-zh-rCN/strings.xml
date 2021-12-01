@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Branch Test</string>
+    <string name="share">分享</string>
+    <string name="other">deep链接页面</string>
+</resources>
