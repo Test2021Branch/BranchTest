@@ -21,7 +21,7 @@
 
             <!-- Branch URI Scheme -->
             <intent-filter>
-                <data android:scheme="yourapp" android:host="open" />
+                <data android:scheme="ppm-tech-challenge" android:host="open" />
                 <action android:name="android.intent.action.VIEW" />
                 <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.BROWSABLE" />
@@ -32,8 +32,8 @@
                 <action android:name="android.intent.action.VIEW" />
                 <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.BROWSABLE" />
-                <data android:scheme="ppm-tech-challenge" android:host="ppm-tech-challenge.app.link" />
-                <data android:scheme="ppm-tech-challenge" android:host="ppm-tech-challenge-alternate.app.link" />
+                <data android:scheme="https" android:host="ppm-tech-challenge.app.link" />
+                <data android:scheme="https" android:host="ppm-tech-challenge-alternate.app.link" />
             </intent-filter>
         </activity>
 
